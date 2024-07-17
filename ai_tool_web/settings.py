@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-#nie^qyjl=u&3_70^_bx#_rbjrac5%pq1_%1#nmr%@k&@aq3ta
 DATA_UPLOAD_MAX_MEMORY_SIZE = 5242880
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ai-tool-cqmg.onrender.com"]
 
 
 # Application definition
